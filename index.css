@@ -1,0 +1,191 @@
+/* src/index.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background: linear-gradient(135deg, #1a1a2e, #16213e) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-weight: bold !important;
+  font-size: 1.5rem !important;
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.hero-section .container {
+  max-width: 800px;
+}
+
+.card {
+  border-radius: 20px !important;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: none !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+  max-width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.card:hover img {
+  transform: scale(1.05);
+}
+
+.card-body {
+  padding: 20px;
+  background: white;
+}
+
+.card-title {
+  margin-bottom: 15px;
+  font-weight: bold;
+  color: #333;
+}
+
+.card-text {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+
+.btn-primary {
+  background: linear-gradient(45deg, #007bff, #0056b3) !important;
+  border: none !important;
+  border-radius: 25px !important;
+  padding: 12px 30px !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(45deg, #0056b3, #004085) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 123, 255, 0.3);
+}
+
+.btn-success {
+  background: linear-gradient(45deg, #28a745, #20c997) !important;
+  border: none !important;
+  border-radius: 25px !important;
+  padding: 12px 30px !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+}
+
+.btn-success:hover {
+  background: linear-gradient(45deg, #20c997, #17a2b8) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(40, 167, 69, 0.3);
+}
+
+.btn-danger {
+  background: linear-gradient(45deg, #dc3545, #c82333) !important;
+  border: none !important;
+  border-radius: 20px !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+}
+
+.btn-danger:hover {
+  background: linear-gradient(45deg, #c82333, #bd2130) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(220, 53, 69, 0.3);
+}
+
+.btn-outline-light {
+  border-radius: 25px !important;
+  padding: 10px 25px !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+  border: 2px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.btn-outline-light:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  border-color: white !important;
+  transform: translateY(-2px);
+}
+
+/* Modern form styling */
+.form-control {
+  border-radius: 15px !important;
+  border: 2px solid #e9ecef !important;
+  padding: 12px 20px !important;
+  transition: all 0.3s ease !important;
+}
+
+.form-control:focus {
+  border-color: #007bff !important;
+  box-shadow: 0 0 20px rgba(0, 123, 255, 0.2) !important;
+}
+
+/* Modal styling */
+.modal-overlay {
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.modal-content {
+  border-radius: 20px !important;
+  border: none !important;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Loading spinner */
+.spinner-border {
+  color: #007bff !important;
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(45deg, #007bff, #28a745);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: bold;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #007bff, #28a745);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, #0056b3, #20c997);
+}
