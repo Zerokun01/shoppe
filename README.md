@@ -1,56 +1,70 @@
-👋 Hi, I'm Mary Chris Carcedo
-🎓 About Me
+# 👋 Hi, I'm Mary Chris Carcedo
 
-I am an Information Technology student from Cebu, Philippines, expected to graduate in 2026. I enjoy building simple web systems and learning new technologies related to web development and system design.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning.
 
-I like working on projects where I can create systems that help manage users, monitor networks, and improve workflows. I am always interested in improving my skills in programming, design, and problem solving.
+---
 
-💻Technical Skills
-Programming Languages: PHP, JavaScript, HTML, CSS
-Database: MySQL
-Frameworks / Tools: Bootstrap
-Other Tools: Figma, Adobe (photo editing & design), Vegas Pro
-Concepts: CRUD systems, User Authentication, Audit Trails
+## 🚀 About Me
 
-🛠 Projects
-📌 Student Management System
-A web-based system with Admin and Student dashboards.
-Features include:
-Student registration with email verification
-Profile management
-Task assignment by admin
-Audit trail for tracking activities
-Built using PHP, MySQL, and Bootstrap
+- 🎓 Currently learning: **[Information Technology]**
+- 💻 Interested in: **Software Development, Open Source, and Problem Solving**
+- 🌱 Currently improving my skills in **[Programming Language / Framework]**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 🎯 Goal: **Become a skilled developer and contribute to impactful projects**
 
-📌 Simple Shop Management System
-A basic shop system project where users can manage products and simulate an online shop enviroment.
-Features include:
-Add products 
-Edit product details
-Delete products
-Product listing display 
-Simple user interace for managing shop items
-HTML, CSS, JAVASCRIPT
+---
 
-🎨Other Skills
-UI Design using Figma
-Graphic design using Adobe tools
-Video editing using Vegas Pro
+## 🛠️ Skills & Technologies
 
-🤝 Connect With Me
- 📧 Email: marychriscarcedo26@mail.com
-💼 LinkedIn: https://www.linkedin.com/in/mary-chris-carcedo-40a3233b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-💻 GitHub: https://github.com/Zerokun01
+### Programming Languages
+- Python
+- JavaScript
+- Java
+- C++
 
+### Web Development
+- HTML
+- CSS
+- React
+- Node.js
 
+### Tools
+- Git
+- GitHub
+- VS Code
+- Docker
 
+---
 
+## 📂 My Projects
 
- 
+Here are some projects I have worked on:
 
+- 📌 **Project 1** – Student Management System that about web based system with Admin and Student dashboards.
+- 📌 **Project 2** – Simple Shoppe Management System a basic shop system where users can manage products and simulate an online shop enviroment.
+  
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
+---
 
+## 🌍 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/mary-chris-carcedo-40a3233b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  - 📧 Email: marychriscarcedo26@gmail.com
+
+---
+
+## ⚡ Fun Facts
+
+- I enjoy learning new technologies
+- I like solving coding challenges
+- I enjoy building creative projects
+
+---
+
+⭐ Thanks for visiting my profile!
