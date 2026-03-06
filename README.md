@@ -1,12 +1,56 @@
-# React + Vite
+👋 Hi, I'm Mary Chris Carcedo
+🎓 About Me
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am an Information Technology student from Cebu, Philippines, expected to graduate in 2026. I enjoy building simple web systems and learning new technologies related to web development and system design.
 
-Currently, two official plugins are available:
+I like working on projects where I can create systems that help manage users, monitor networks, and improve workflows. I am always interested in improving my skills in programming, design, and problem solving.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💻Technical Skills
+Programming Languages: PHP, JavaScript, HTML, CSS
+Database: MySQL
+Frameworks / Tools: Bootstrap
+Other Tools: Figma, Adobe (photo editing & design), Vegas Pro
+Concepts: CRUD systems, User Authentication, Audit Trails
 
-## Expanding the ESLint configuration
+🛠 Projects
+📌 Student Management System
+A web-based system with Admin and Student dashboards.
+Features include:
+Student registration with email verification
+Profile management
+Task assignment by admin
+Audit trail for tracking activities
+Built using PHP, MySQL, and Bootstrap
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Simple Shop Management System
+A basic shop system project where users can manage products and simulate an online shop enviroment.
+Features include:
+Add products 
+Edit product details
+Delete products
+Product listing display 
+Simple user interace for managing shop items
+HTML, CSS, JAVASCRIPT
+
+🎨Other Skills
+UI Design using Figma
+Graphic design using Adobe tools
+Video editing using Vegas Pro
+
+🤝 Connect With Me
+ 📧 Email: marychriscarcedo26@mail.com
+💼 LinkedIn: https://www.linkedin.com/in/mary-chris-carcedo-40a3233b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+💻 GitHub: https://github.com/Zerokun01
+
+
+
+
+
+ 
+
+
+
+
+
+
+
